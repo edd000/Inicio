@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <div>
       <h1>Mi Página Next.js</h1>
-      <p>Bienvenido a mi página básica con Next.js</p>
+      <p>Eres una bestia ,mojtro Next.js</p>
     </div>
   );
 };
